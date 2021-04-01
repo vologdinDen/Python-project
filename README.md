@@ -1,1 +1,1 @@
-# Python-project
+# The folder tic-tac-toe contains the implementation of tic-tac-toe game
